@@ -28,6 +28,10 @@ project.xcworkspace
 .gradle
 local.properties
 
+# React-native-web/webpack
+#
+/www/
+
 # node.js
 #
 node_modules/
